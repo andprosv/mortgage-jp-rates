@@ -1,0 +1,31 @@
+{
+ "updated": "2026-08-11T22:45:58Z",
+ "note": "参考値。最新・正確な金利は各金融機関の公式サイトでご確認ください。",
+ "flat35": 1.84,
+ "banks": [
+  {
+   "id": "aeon",
+   "name": "イオン銀行",
+   "variable": 1.04,
+   "asof": "2026-08",
+   "url": "https://www.aeonbank.co.jp/housing_loan/",
+   "stale": false
+  },
+  {
+   "id": "jibun",
+   "name": "auじぶん銀行",
+   "variable": 1.08,
+   "asof": null,
+   "url": "https://www.jibunbank.co.jp/products/homeloan/",
+   "stale": false
+  },
+  {
+   "id": "paypay",
+   "name": "PayPay銀行",
+   "variable": 1.33,
+   "asof": null,
+   "url": "https://www.paypay-bank.co.jp/mortgage/index.html",
+   "stale": false
+  }
+ ]
+}
