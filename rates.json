@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T22:58:02Z",
+ "updated": "2026-08-31T16:49:03Z",
  "note": "参考値。最新・正確な金利は各金融機関の公式サイトでご確認ください。",
  "flat35": 1.84,
  "banks": [
@@ -7,7 +7,7 @@
    "id": "aeon",
    "name": "イオン銀行",
    "variable": 1.04,
-   "asof": "2026-08",
+   "asof": "2026-09",
    "url": "https://www.aeonbank.co.jp/housing_loan/",
    "stale": false
   },
