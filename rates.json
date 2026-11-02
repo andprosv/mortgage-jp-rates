@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:59:06Z",
+ "updated": "2026-11-02T19:16:23Z",
  "note": "参考値。最新・正確な金利は各金融機関の公式サイトでご確認ください。",
  "flat35": 1.84,
  "banks": [
@@ -22,7 +22,7 @@
   {
    "id": "paypay",
    "name": "PayPay銀行",
-   "variable": 1.58,
+   "variable": 1.7,
    "asof": null,
    "url": "https://www.paypay-bank.co.jp/mortgage/index.html",
    "stale": false
